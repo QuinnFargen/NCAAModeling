@@ -1,0 +1,35 @@
+---
+title: "March Modeling"
+author: "Quinn Fargen"
+date: "November 12, 2017"
+output: html_document
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
